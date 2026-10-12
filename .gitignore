@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Kaggle dataset
+train/
+test/
+train_labels.csv
+sample_submission.csv
+
+# Python virtual environment
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Trained models
+*.pth
+*.pt
+*.h5
