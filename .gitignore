@@ -232,3 +232,5 @@ sample_submission.csv
 *.pth
 *.pt
 *.h5
+# Ignore downloaded Kaggle dataset archives
+*.zip
