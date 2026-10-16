@@ -234,3 +234,19 @@ sample_submission.csv
 *.h5
 # Ignore downloaded Kaggle dataset archives
 *.zip
+# Kaggle dataset
+train/
+test/
+*.zip
+*.csv
+
+# Python environments
+.venv/
+.venv312/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+# Ignore Python 3.12 virtual environment
+.venv312/
