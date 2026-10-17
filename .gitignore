@@ -250,3 +250,6 @@ test/
 *.ckpt
 # Ignore Python 3.12 virtual environment
 .venv312/
+# Ignore saved model checkpoints
+checkpoints/
+**/checkpoints/
